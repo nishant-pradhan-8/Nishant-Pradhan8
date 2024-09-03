@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src = "https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?t=st=1725368969~exp=1725372569~hmac=a415c1ae660a27bbe2740e52bb9f87c2873d087f988ed54a307aa604042ac446&w=996" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nishant-Pradhan8&label=Profile%20views&color=0e75b6&style=flat" alt="Nishant-Pradhan8" /> </p>
 
-- 💬 Ask me about **react** **tailwind**
+- 💬 Ask me about **React** **Tailwind** 
 
 - 📫 How to reach me **nishant.pradhan2060@gmail.com**
 
